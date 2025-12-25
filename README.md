@@ -1,7 +1,3 @@
-
----
-
-```md
 # 🃏 Blackjack Simulator
 
 ## Overview
@@ -12,40 +8,39 @@ Users can simulate thousands of blackjack shoes efficiently while maintaining a 
 ---
 
 ## Key Features
-- **Custom Rule Input**
-  - Number of decks
-  - Shuffle point
-  - Number of shoes simulated
-  - Starting Bankroll
-  - Bet Spread
-  - Dealer soft 17
-  - DAS (double after split)
-  - Resplit aces
-  - Hit split aces
-  - Player can double a split ace
-  - Late surrender
-  - Whether or not to simulate counting cards
-  - Estimated hands played per hour
 
-- **Statistical Analysis**
-  - Expected value (EV) per hand
-  - Expected value (EV) per hour  
-  - Player edge  
-  - Variance  
-  - Risk of ruin  
-  - Average bet size
-  - Profit
-  
-  
+### Custom Rule Input
+- Number of decks  
+- Shuffle point  
+- Number of shoes simulated  
+- Starting bankroll  
+- Bet spread  
+- Dealer hits or stands on soft 17  
+- Double after split (DAS)  
+- Resplit aces  
+- Hit split aces  
+- Double on split aces  
+- Late surrender  
+- Optional card counting simulation  
+- Estimated hands played per hour  
 
-- **Visualizations**
-  - Bankroll-over-time line chart  
-  - Progress bar for long simulations
-  - Basic strategy chart that updates based on game rules  
+### Statistical Analysis
+- Expected value (EV) per hand  
+- Expected value (EV) per hour  
+- Player edge  
+- Variance  
+- Risk of ruin  
+- Average bet size  
+- Total profit  
 
-- **Performance**
-  - Supports large simulations (up to 10,000 shoes)
-  - Interface remains responsive during execution
+### Visualizations
+- Bankroll-over-time line chart  
+- Progress bar for long simulations  
+- Basic strategy chart that dynamically updates based on game rules  
+
+### Performance
+- Supports large simulations (up to 10,000 shoes)  
+- Interface remains responsive during execution  
 
 ---
 
@@ -66,7 +61,7 @@ Users can simulate thousands of blackjack shoes efficiently while maintaining a 
 
 ---
 
-## How to Run (Windows only)
-1. Download the installer under releases
-2. Install application
-
+## How to Run (Windows Only)
+1. Download the installer from the **Releases** page  
+2. Install the application  
+3. Launch the simulator and configure game rules  
