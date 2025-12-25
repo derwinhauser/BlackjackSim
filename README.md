@@ -39,7 +39,7 @@ Users can simulate thousands of blackjack shoes efficiently while maintaining a 
 - Basic strategy chart that dynamically updates based on game rules  
 
 ### Performance
-- Supports large simulations (up to 10,000 shoes)  
+- Supports large simulations (100,000+ shoes)  
 - Interface remains responsive during execution  
 
 ---
