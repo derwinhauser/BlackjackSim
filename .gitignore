@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Compiled Java
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
